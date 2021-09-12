@@ -2,6 +2,6 @@
 class program1 {
      
     public static void main(String[] args){
-         System.out.println("SUPREET");
+         System.out.println("SUPREET IS AWESOME");
     }
 }
